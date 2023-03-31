@@ -4,16 +4,16 @@
 ### <div align="center">Hello there! 👋</div>  
   
 
-- 🔭 I’m currently working on a website using AWS and Wordpress  
+- 🔭 I’m currently working on a restaurant website  
   
 
-- 🌱 I’m currently learning MERN  
+- 🌱 I’m currently learning Netlify
   
 
-- ❓ Ask me about anything related to Python stack and related technologies  
+- ❓ Ask me about anything related to Python/MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I am only using one monitor  
+- I love Anime 
   
 
 <br/>  
