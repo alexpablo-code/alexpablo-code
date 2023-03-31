@@ -1,4 +1,4 @@
-<img src="https://github.com/alexpablo-code/alexpablo-code/blob/main/Alex%20Pablo.png" align="left" style="width: 100%" />  
+<img src="https://github.com/alexpablo-code/alexpablo-code/blob/main/github_banner.png" align="left" style="width: 100%" />  
   
 
 ### <div align="center">Hello there! 👋</div>  
