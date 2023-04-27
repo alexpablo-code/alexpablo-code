@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a restaurant website  
   
 
-- 🌱 I’m currently learning Netlify
+- 🌱 I’m currently learning Render Deployment
   
 
 - ❓ Ask me about anything related to Python/MERN stack and related technologies  
