@@ -4,10 +4,10 @@
 ### <div align="center">Hello there! 👋</div>  
   
 
-- 🔭 I’m currently working on a restaurant website  
+- 🔭 I’m currently working on a construction company website  
   
 
-- 🌱 I’m currently learning Render Deployment
+- 🌱 I’m currently learning Next.js 
   
 
 - ❓ Ask me about anything related to Python/MERN stack and related technologies  
